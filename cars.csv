@@ -1,0 +1,16 @@
+Car,MPG,Cylinders,Displacement
+STRING,DOUBLE,INT,DOUBLE
+Chevrolet Chevelle Malibu,18,8,307
+Buick Skylark 320,15,8,350
+Plymouth Satellite,18,8,318
+AMC Rebel SST,16,8,304
+Ford Torino,17,8,302
+Ford Galaxie 500,15,8,429
+Chevrolet Impala,14,8,454
+Plymouth Fury iii,14,8,440
+Pontiac Catalina,14,8,455
+AMC Ambassador DPL,15,8,390
+Citroen DS-21 Pallas,0,4,133
+Chevrolet Chevelle Concours (sw),0,8,350
+Ford Torino (sw),0,8,351
+Plymouth Satellite (sw),0,8,383
